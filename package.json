@@ -1,0 +1,38 @@
+{
+  "author": "Cleber Oliveira <cleberw3b@gmail.com> (https://github.com/Cleberw3b)",
+  "name": "curadoria",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Website nossovoto - Criando a ponte entre a politica e o cidadão.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "NODE_ENV=production next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nossovoto/curadoria.git"
+  },
+  "keywords": [
+    "curadoria"
+  ],
+  "bugs": {
+    "url": "https://github.com/nossovoto/curadoria/issues"
+  },
+  "homepage": "https://github.com/nossovoto/curadoria#readme",
+  "dependencies": {
+    "next": "^9.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hook-form": "^5.7.2",
+    "sass": "^1.26.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.3"
+  }
+}
