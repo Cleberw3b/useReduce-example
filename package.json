@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/nossovoto/curadoria#readme",
   "dependencies": {
-    "next": "^9.4.2",
+    "next": "^13.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hook-form": "^5.7.2",
